@@ -12,7 +12,7 @@ header nav a:hover{
 	font-size: 20px;
 	letter-spacing: 0.5px
 }
-span{
+span.titulo{
 	text-decoration: none;
 	font-size: 25px;
 	color: #00EE76;
